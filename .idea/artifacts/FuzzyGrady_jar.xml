@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FuzzyGrady:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FuzzyGrady_jar</output-path>
+    <root id="archive" name="FuzzyGrady.jar">
+      <element id="module-output" name="FuzzyGrady" />
+    </root>
+  </artifact>
+</component>
